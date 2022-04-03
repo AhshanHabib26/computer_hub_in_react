@@ -1,0 +1,29 @@
+.header_Container{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-around;
+    background-color: #fc674d;
+    padding: 8px 0;
+}
+.logo_Container h1{
+    font-size: 28px;
+    color: #e6e4e4;
+    margin: 0;
+}
+.logo_Container span{
+    background-color: #363636;
+    color: tomato;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+.nav_Container a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #e6e4e4;
+    font-size: 18px;
+}
+.active_color{
+    color: #0cf0f8;
+}
