@@ -1,0 +1,29 @@
+.error-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.error-container img{
+    width: 620px;
+}
+.details_sec{
+    text-align: center;
+}
+.details_sec h1{
+    font-size: 42px;
+    color: rgb(159, 207, 250);
+}
+.details_sec p{
+    font-size: 18px;
+    color: #706f6f;
+    margin-bottom: 20px;
+}
+.details_sec a{
+    text-decoration: none;
+    background-color: #363636;
+    padding: 10px 18px;
+    color: #fff;
+    border-radius: 5px;
+}
