@@ -1,0 +1,18 @@
+.data_chart_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.monthley_sell_container h1{
+    text-align: center;
+    margin: 15px 0;
+    color: #046ef8;
+    font-size: 26px;
+}
+.investment_revenue h1{
+    text-align: center;
+    margin: 30px 0;
+    color: #ffad14;
+    font-size: 26px;
+}
