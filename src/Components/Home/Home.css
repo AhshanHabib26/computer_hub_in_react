@@ -1,0 +1,28 @@
+.home_Container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px;
+    padding: 80px;
+}
+.details_Container h1{
+    font-size: 42px;
+    color: #363636;
+    word-spacing: 5px;
+}
+.details_Container h2{
+    font-size: 22px;
+    color: #ff8670;
+}
+
+.details_Container ul li{
+    list-style-type: square;
+    color: #363636;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+
+.img_Container img{
+    width: 450px;
+    object-fit: cover;
+}

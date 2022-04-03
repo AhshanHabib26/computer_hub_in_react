@@ -2,73 +2,85 @@
     {
       "id": 1,
       "User_Name": "Habib Khan",
-      "User_Image":"",
+      "User_Image":"https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg",
+      "User_Review": "A freesync Xbox monitor that uses the same Samsung 75hz va panel found in basically every 75hz curved monitor on the market but at 50-70 less then those options.",
       "User_Ratings": "5 Star"
     },
     {
       "id": 2,
       "User_Name": "Rony",
       "User_Image":"https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg",
+      "User_Review": "They look amazing. I mounted them as you can see in the photo but it worked great. Looks a little odd in the back as the piece that hooks into the stand isn't something you can remove, but I'm not worried about that at all",
       "User_Ratings": "4 Star"
     },
     {
       "id": 3,
       "User_Name": "Hasan",
       "User_Image":"https://img.freepik.com/free-photo/handsome-young-man-with-new-stylish-haircut_176420-19637.jpg",
+      "User_Review": "They look amazing. Video quality is 'alright' at best.",
       "User_Ratings": "4.5 Star"
     },
     {
       "id": 4,
       "User_Name": "Ummey Sumaiya",
       "User_Image":"https://img.freepik.com/free-photo/smiling-confident-businesswoman-posing-with-arms-folded_1262-20950.jpg",
+      "User_Review": "I love this monitor overall. The picture is great and everything on it looks so much better.",
       "User_Ratings": "5 Star"
     },
     {
       "id": 5,
       "User_Name": "Mahbub",
       "User_Image":"https://img.freepik.com/free-photo/portrait-handsome-young-man-with-crossed-arms_176420-15569.jpg",
+      "User_Review": "These are not high end gaming monitors, but they work well in the office environment and the occasional steam side game",
       "User_Ratings": "3.5 Star"
     },
     {
       "id": 6,
       "User_Name": "Abu Yousuf",
       "User_Image":"https://img.freepik.com/free-photo/close-up-happy-redhead-man-face-smiling-with-white-teeth-camera-wearing-glasses-better-sig_1258-77602.jpg",
+      "User_Review": "It’s a simple monitor with a HDMI connection and a headphone port, not even a usb port. ",
       "User_Ratings": "5 Star"
     },
     {
       "id": 7,
       "User_Name": "Alomgir",
       "User_Image":"https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
+      "User_Review": "I loved this monitor for 4 months and then it got a line all across the screen. I contacted Samsung and it was still under warranty so I shipped it back only to have it returned not repaired.",
       "User_Ratings": "4 Star"
     },
     {
       "id": 8,
       "User_Name": "Manik",
       "User_Image":"https://img.freepik.com/free-photo/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-studio-background_1258-26761.jpg",
+      "User_Review": "The LED light is sorta bright, so I end up putting some tape over it so I can sleep at night, but its no big deal. The picture quality is so much nicer than my old TV, and it was a 1080p as well. ",
       "User_Ratings": "5 Star"
     },
     {
       "id": 9,
       "User_Name": "Emran Gazi",
       "User_Image":"https://img.freepik.com/free-photo/serious-strong-guy-with-red-hair-standing-waiting-pose-looking-judgemental-wait-explanation-scolding-someone-posing-confident-against-white-background_176420-44850.jpg",
+      "User_Review": "These are great value, decent curved monitors. We have them mounted in pairs and love the look. When seated in front of them the curve seems to disappear and it's a great surface to work from multiple windows from.",
       "User_Ratings": "4.5 Star"
     },
     {
       "id": 10,
       "User_Name": "Eliyas",
       "User_Image":"https://img.freepik.com/free-photo/portrait-african-american-man_23-2149072179.jpg",
+      "User_Review": "The picture quality is ok. I thought it should be sharper. I bought it for streaming devices like amazon fair stick only realized that it didn’t have a built-in speaker after talking to the tech support.",
       "User_Ratings": "3.8 Star"
     },
     {
       "id": 11,
       "User_Name": "Khan Bahadur",
       "User_Image":"https://img.freepik.com/free-photo/young-man-red-t-shirt-isolated-white-background_185193-74629.jpg",
+      "User_Review": "I contacted Samsung and it was still under warranty so I shipped it back only to have it returned not repaired. They said the monitor panel was damaged and it wasn't covered to be repaired.",
       "User_Ratings": "5 Star"
     },
     {
       "id": 12,
       "User_Name": "Nasir",
       "User_Image":"https://img.freepik.com/free-photo/portrait-stylish-attractive-young-bearded-man-listening-music-wireless-headphones-modern-style-confident-mood_285396-9539.jpg",
+      "User_Review": "I bought i new and it sat on my desk without any damage. I read that this is a thing Samsung pulls with warranty service.",
       "User_Ratings": "4.8 Star"
     }
 ]
