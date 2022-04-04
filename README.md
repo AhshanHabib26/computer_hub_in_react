@@ -1,10 +1,10 @@
 # Site Name: 
 ### Computer Hub Design By Ahshan Habib
 
-# Site Live Link: 
-Explore **[Click Here]()**
+## Site Live Link: 
+Explore **[Click Here](https://nh-computer-hub.netlify.app/)**
 
-# Project Details
+## Project Details
  * Project Name: Computer Hub
  * Technology: **HTML5**, **CSS3**, **React JS**
  * Project Details:
