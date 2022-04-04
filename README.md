@@ -2,10 +2,10 @@
 ### Computer Hub Design By Ahshan Habib
 
 # Site Live Link: 
-**[Click Here]()**
+Explore **[Click Here]()**
 
 # Project Details
- * Name: Computer Hub
+ * Project Name: Computer Hub
  * Technology: **HTML5**, **CSS3**, **React JS**
  * Project Details:
     * Computer Reviews Site
