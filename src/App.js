@@ -3,6 +3,7 @@ import './App.css';
 import About from './Components/About/About';
 import Blog from './Components/Blog/Blog';
 import Dashboard from './Components/Dashboard/Dashboard';
+import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
 import PageNotFound from './Components/PageNotFound/PageNotFound';
@@ -20,6 +21,7 @@ function App() {
       <Route path='/about' element={<About/>}/>
       <Route path='*' element={<PageNotFound/>}/>
     </Routes>
+    <Footer/>
     </div>
   );
 }
