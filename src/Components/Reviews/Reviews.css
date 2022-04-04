@@ -29,3 +29,12 @@
     color: #044499;
     border: 1px solid #044499;
  }
+ @media only screen and (max-width: 809px) {
+   .review_Container{ grid-template-columns: repeat(1, 1fr);}
+ }
+ @media only screen and (min-width: 810px) {
+   .review_Container{ grid-template-columns: repeat(2, 1fr);}
+ }
+ @media only screen and (min-width: 980px) {
+   .review_Container{ grid-template-columns: repeat(3, 1fr);}
+ }
