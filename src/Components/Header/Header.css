@@ -27,3 +27,6 @@
 .active_color{
     color: #0cf0f8;
 }
+@media only screen and (max-width: 580px) {
+    .nav_Container{ display: none;}
+}
