@@ -1,0 +1,18 @@
+.about_component{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    height: 50vh;
+}
+.about_component h1{
+    font-size: 48px;
+    color: rgb(204, 205, 206);
+    text-shadow: 5px 1px tomato;
+}
+.about_component p{
+   font-size: 16px;
+   margin-top: 10px;
+   color: #767676;
+}
