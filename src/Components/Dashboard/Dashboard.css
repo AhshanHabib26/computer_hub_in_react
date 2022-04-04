@@ -3,6 +3,7 @@
     align-items: center;
     flex-direction: column;
     margin-top: 80px;
+    padding: 20px;
 }
 .monthley_sell_container h1{
     text-align: center;

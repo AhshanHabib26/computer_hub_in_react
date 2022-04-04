@@ -79,3 +79,6 @@
     .img_Container img{width: 350px;}
     .reviews_container{ grid-template-columns: repeat(2, 1fr);}
 }
+@media only screen and (min-width: 1020px) {
+    .reviews_container{ grid-template-columns: repeat(3, 1fr);}
+  }

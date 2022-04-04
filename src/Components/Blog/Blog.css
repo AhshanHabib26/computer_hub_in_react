@@ -24,3 +24,6 @@
     margin-bottom: 8px;
     color: #363636;
 }
+@media only screen and (max-width: 920px){
+    .blog_container{ grid-template-columns: repeat(1, 1fr);}
+}
